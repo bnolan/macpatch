@@ -10,6 +10,9 @@
 		"test": "jest"
 	},
 	"dependencies": {
+		"cheerio": "^1.0.0-rc.2",
+		"cheerio-without-node-native": "^0.20.2",
+		"html-entities": "^1.2.1",
 		"react": "16.0.0-alpha.12",
 		"react-native-macos": "0.16.0"
 	},
